@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ServerSelector">
+</Property><Property Name="Solution File" Value="Z:\opents3\vs_projects\configtool\ServerSelector.sln">
+</Property><Property Name="User Options File" Value="Z:\opents3\vs_projects\configtool\ServerSelector.suo">
+</Property><Property Name="Date" Value="Saturday, September 23, 2023">
+</Property><Property Name="Time" Value="19:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ServerSelector.sln" Description="File successfully backed up as Z:\opents3\vs_projects\configtool\ServerSelector.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="ServerSelector.suo" Description="File successfully backed up as Z:\opents3\vs_projects\configtool\ServerSelector.suo.old">
+</Event><Event ErrorLevel="0" Project="ServerSelector" Source="ServerSelector.vcproj" Description="Converting project file 'Z:\opents3\vs_projects\configtool\ServerSelector.vcproj'.">
+</Event><Event ErrorLevel="1" Project="ServerSelector" Source="ServerSelector.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="ServerSelector" Source="ServerSelector.vcproj" Description="Attribute 'OptimizeForWindows98' of 'VCLinkerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="ServerSelector" Source="ServerSelector.vcproj" Description="MSB8012: $(TargetPath) ('Z:\opents3\vs_projects\configtool\.\Release\ServerSelector.exe') does not match the Linker's OutputFile property value '.\Release\ServerSelector.exe' ('Z:\opents3\vs_projects\configtool\Release\ServerSelector.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="ServerSelector" Source="ServerSelector.vcproj" Description="MSB8012: $(TargetPath) ('Z:\opents3\vs_projects\configtool\.\Debug\ServerSelector.exe') does not match the Linker's OutputFile property value '.\Debug/ServerSelector.exe' ('Z:\opents3\vs_projects\configtool\Debug/ServerSelector.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="ServerSelector" Source="ServerSelector.vcproj" Description="Done converting to new project file 'Z:\opents3\vs_projects\configtool\ServerSelector.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ServerSelector" Source="ServerSelector.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ServerSelector.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ServerSelector.sln" Description="Converted">
+</Event></UpgradeLog>
