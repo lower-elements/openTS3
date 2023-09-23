@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DxCommonStatic">
+</Property><Property Name="Solution File" Value="Z:\opents3\vs_projects\dxcommon\DxCommonStatic.sln">
+</Property><Property Name="User Options File" Value="Z:\opents3\vs_projects\dxcommon\DxCommonStatic.suo">
+</Property><Property Name="Date" Value="Saturday, September 23, 2023">
+</Property><Property Name="Time" Value="20:26 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DxCommonStatic.sln" Description="File successfully backed up as Z:\opents3\vs_projects\dxcommon\DxCommonStatic.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="DxCommonStatic.suo" Description="File successfully backed up as Z:\opents3\vs_projects\dxcommon\DxCommonStatic.suo.old">
+</Event><Event ErrorLevel="0" Project="DxCommonStatic" Source="DxCommonStatic.vcproj" Description="Converting project file 'Z:\opents3\vs_projects\dxcommon\DxCommonStatic.vcproj'.">
+</Event><Event ErrorLevel="1" Project="DxCommonStatic" Source="DxCommonStatic.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="DxCommonStatic" Source="DxCommonStatic.vcproj" Description="MSB8012: $(TargetPath) ('Z:\opents3\vs_projects\dxcommon\..\Output/DxCommonStatic___Win32_Release\DxCommonStatic.lib') does not match the Librarian's OutputFile property value '..\Output\DxCommonStatic.lib' ('Z:\opents3\vs_projects\Output\DxCommonStatic.lib') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="DxCommonStatic" Source="DxCommonStatic.vcproj" Description="MSB8012: $(TargetPath) ('Z:\opents3\vs_projects\dxcommon\..\Output/DxCommonStatic___Win32_Debug\DxCommonStatic.lib') does not match the Librarian's OutputFile property value '..\Output\DxCommonStatic.lib' ('Z:\opents3\vs_projects\Output\DxCommonStatic.lib') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="0" Project="DxCommonStatic" Source="DxCommonStatic.vcproj" Description="Done converting to new project file 'Z:\opents3\vs_projects\dxcommon\DxCommonStatic.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="DxCommonStatic" Source="DxCommonStatic.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DxCommonStatic.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DxCommonStatic.sln" Description="Converted">
+</Event></UpgradeLog>
