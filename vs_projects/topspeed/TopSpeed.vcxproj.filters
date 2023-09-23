@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{c398fbf7-9103-412e-9635-3f4caa8c5deb}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{b678850b-545c-47cf-bf75-b2ffa5396f65}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{cef61f4a-0dd6-463e-b437-1f0564b0c029}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Car.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ComputerPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelMultiPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelSingleRace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelTimeTrial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NetworkPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RaceClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RaceInput.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RaceServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RaceSettings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TopSpeed.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TopSpeedDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Track.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TopSpeed.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Car.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarDefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ComputerPlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelMultiplayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelSingleRace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelTimeTrial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkPlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Packets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RaceClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RaceInput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RaceServer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RaceSettings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TopSpeed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TopSpeedDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Track.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TrackDefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sounds\airplane.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\asphalt.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\brake.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\bump1_22.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\button.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\car1_22.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\car2_22.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\car3_22.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\car4_22.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\carstart.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\carstart2.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\carstart3.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\crash.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\crashmono.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\crashshort.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\crowd.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\gravel.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\kawasaki22.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\kawasakistart.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="logo_medium_gray.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="logo_red.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="logo_topspeed2.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="magix_gray.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\ocean.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\rain.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\suzuki22.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\suzukistart.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\TopSpeed.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\TopSpeed.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\water.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sounds\wipers.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

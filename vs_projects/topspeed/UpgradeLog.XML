@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TopSpeed">
+</Property><Property Name="Solution File" Value="Z:\opents3\vs_projects\topspeed\TopSpeed.sln">
+</Property><Property Name="User Options File" Value="Z:\opents3\vs_projects\topspeed\TopSpeed.suo">
+</Property><Property Name="Date" Value="Saturday, September 23, 2023">
+</Property><Property Name="Time" Value="15:41 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TopSpeed.sln" Description="File successfully backed up as Z:\opents3\vs_projects\topspeed\TopSpeed.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="TopSpeed.suo" Description="File successfully backed up as Z:\opents3\vs_projects\topspeed\TopSpeed.suo.old">
+</Event><Event ErrorLevel="0" Project="TopSpeed" Source="TopSpeed.vcproj" Description="Converting project file 'Z:\opents3\vs_projects\topspeed\TopSpeed.vcproj'.">
+</Event><Event ErrorLevel="1" Project="TopSpeed" Source="TopSpeed.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="TopSpeed" Source="TopSpeed.vcproj" Description="Attribute 'OptimizeForWindows98' of 'VCLinkerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="TopSpeed" Source="TopSpeed.vcproj" Description="MSB8012: $(TargetPath) ('Z:\opents3\vs_projects\topspeed\..\Output/TopSpeed___Win32_Debug\TopSpeed.exe') does not match the Linker's OutputFile property value '..\Output/TopSpeed.exe' ('Z:\opents3\vs_projects\Output/TopSpeed.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="TopSpeed" Source="TopSpeed.vcproj" Description="MSB8012: $(TargetPath) ('Z:\opents3\vs_projects\topspeed\..\Output/TopSpeed___Win32_Release\TopSpeed.exe') does not match the Linker's OutputFile property value '..\Output/TopSpeed.exe' ('Z:\opents3\vs_projects\Output/TopSpeed.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="TopSpeed" Source="TopSpeed.vcproj" Description="MSB8012: $(TargetPath) ('Z:\opents3\vs_projects\topspeed\Release sse2\TopSpeed.exe') does not match the Linker's OutputFile property value '..\Output/TopSpeed___Win32_Release/TopSpeed.exe' ('Z:\opents3\vs_projects\Output/TopSpeed___Win32_Release/TopSpeed.exe') in project configuration 'Release sse2|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="TopSpeed" Source="TopSpeed.vcproj" Description="Done converting to new project file 'Z:\opents3\vs_projects\topspeed\TopSpeed.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="TopSpeed" Source="TopSpeed.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TopSpeed.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TopSpeed.sln" Description="Converted">
+</Event></UpgradeLog>
