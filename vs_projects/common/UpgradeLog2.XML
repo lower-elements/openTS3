@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Common">
+</Property><Property Name="Solution File" Value="Z:\opents3\vs_projects\common\Common.sln">
+</Property><Property Name="User Options File" Value="Z:\opents3\vs_projects\common\Common.suo">
+</Property><Property Name="Date" Value="Saturday, September 23, 2023">
+</Property><Property Name="Time" Value="16:34 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Common.sln" Description="File successfully backed up as Z:\opents3\vs_projects\common\Common.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Common.suo" Description="File successfully backed up as Z:\opents3\vs_projects\common\Common.suo.old">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common.vcproj" Description="Converting project file 'Z:\opents3\vs_projects\common\Common.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Common" Source="Common.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Common" Source="Common.vcproj" Description="MSB8012: $(TargetPath) ('Z:\opents3\vs_projects\common\.\Debug\Common.dll') does not match the Linker's OutputFile property value '..\Output\Common.dll' ('Z:\opents3\vs_projects\Output\Common.dll') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Common" Source="Common.vcproj" Description="MSB8012: $(TargetPath) ('Z:\opents3\vs_projects\common\.\Release\Common.dll') does not match the Linker's OutputFile property value '..\Output\Common.dll' ('Z:\opents3\vs_projects\Output\Common.dll') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common.vcproj" Description="Done converting to new project file 'Z:\opents3\vs_projects\common\Common.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Common" Source="Common.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Common.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Common.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CommonStatic">
+</Property><Property Name="Solution File" Value="Z:\opents3\vs_projects\common\CommonStatic.sln">
+</Property><Property Name="User Options File" Value="Z:\opents3\vs_projects\common\CommonStatic.suo">
+</Property><Property Name="Date" Value="Saturday, September 23, 2023">
+</Property><Property Name="Time" Value="16:33 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CommonStatic.sln" Description="File successfully backed up as Z:\opents3\vs_projects\common\CommonStatic.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="CommonStatic.suo" Description="File successfully backed up as Z:\opents3\vs_projects\common\CommonStatic.suo.old">
+</Event><Event ErrorLevel="0" Project="CommonStatic" Source="CommonStatic.vcproj" Description="Converting project file 'Z:\opents3\vs_projects\common\CommonStatic.vcproj'.">
+</Event><Event ErrorLevel="1" Project="CommonStatic" Source="CommonStatic.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="CommonStatic" Source="CommonStatic.vcproj" Description="MSB8012: $(TargetPath) ('Z:\opents3\vs_projects\common\..\Output/CommonStatic___Win32_Debug\CommonStatic.lib') does not match the Librarian's OutputFile property value '..\Output\CommonStatic.lib' ('Z:\opents3\vs_projects\Output\CommonStatic.lib') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="CommonStatic" Source="CommonStatic.vcproj" Description="MSB8012: $(TargetPath) ('Z:\opents3\vs_projects\common\..\Output/CommonStatic___Win32_Release\CommonStatic.lib') does not match the Librarian's OutputFile property value '..\Output\CommonStatic.lib' ('Z:\opents3\vs_projects\Output\CommonStatic.lib') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="0" Project="CommonStatic" Source="CommonStatic.vcproj" Description="Done converting to new project file 'Z:\opents3\vs_projects\common\CommonStatic.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="CommonStatic" Source="CommonStatic.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CommonStatic.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CommonStatic.sln" Description="Converted">
+</Event></UpgradeLog>
